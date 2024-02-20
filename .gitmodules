@@ -1,0 +1,3 @@
+[submodule "fxCodePi"]
+	path = fxCodePi
+	url = https://github.com/Ronanu/FxCodePi.git
