@@ -1,3 +1,9 @@
 [submodule "fxCodePi"]
 	path = fxCodePi
 	url = https://github.com/Ronanu/FxCodePi.git
+[submodule "xBSFsystem"]
+	path = xBSFsystem
+	url = https://github.com/Ronanu/fxBSFsystem.git
+[submodule "fxCode32"]
+	path = fxCode32
+	url = https://github.com/Ronanu/vsCode32.git
